@@ -430,7 +430,7 @@
 
           "type": "Buffer",
 
-          "data": "SPZl6tc3dEDfxabZicQxTDubVbAf1dAi29LXt/Lo1WQ="
+          "data": "SPZl6tc3dEDfxabZicQxTDubVbAf1dAi29LXt/Lo1
 
         },
 
@@ -440,7 +440,7 @@
 
           "data": "EjRiuLxlNSEJ7kCc+bSd9hiX8oVns+IcK95oSxlkBl4="
 
-        }
+        
 
       },
 
@@ -449,7 +449,6 @@
         "private": {
 
           "type": "Buffer",
-
           "data": "yAD8IZfiBCqRes667+xE4SBYE+Z7mLjLg09LH0HEImI="
 
         },
