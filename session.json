@@ -34,7 +34,7 @@
 
       },
 
-      "signature": {
+      "signature: {
 
         "type": "Buffer",
 
@@ -42,7 +42,7 @@
       "id": "94726140613:3@s.whats
         },
 
-        "identifierKey": {
+        "identifierKey": 
 
           "type": "Buffer",
 
@@ -52,7 +52,7 @@
 
       }
 
-    ],
+  
 
     "lastAccountSyncTimestamp": 1656420710,
 
@@ -534,5 +534,3 @@
                   "counter": 2,
 
                   "key": ""
-
-  
